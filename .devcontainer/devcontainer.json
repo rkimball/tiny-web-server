@@ -1,0 +1,11 @@
+{
+    "dockerFile": "Dockerfile",
+    "context": "..",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.copilot"
+            ]
+        }
+    }
+}
